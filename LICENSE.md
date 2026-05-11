@@ -1,4 +1,4 @@
-
+custom Todoist for macOS Plugin | goal tracking + offline access offers the most advanced Todoist for macOS plugin, with goal tracking and offline access. Ideal for professionals.
 
 
 
